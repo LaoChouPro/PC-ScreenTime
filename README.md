@@ -1,6 +1,7 @@
 # PC-ScreenTime
-这是一个用于记录PC用户屏幕使用时间的可视化软件，目前安装打包版本仅支持中文，源码有英文版本。由老抽开发。This is a program that can record the screentime of PC, and show these data in visual charts and tables. Developed by LaoChou.
-要安装本程序请前往 http://laochou.cloud/GitHub/PC_ScreenTime/ 下载安装文件。目前仅支持中文安装。
+这是一个用于记录PC用户屏幕使用时间的可视化软件，目前安装打包版本仅支持中文，源码有英文版本。由老抽开发。This is a program that can record the screentime of PC, and show these data in visual charts and tables. Developed by LaoChou.  
+  
+要安装本程序请前往 http://laochou.cloud/GitHub/PC_ScreenTime/ 下载安装文件。目前仅支持中文安装。  
 Plese click the link http://laochou.cloud/GitHub/PC_ScreenTime/ to download the setup file. Only Chinese available currently.
 ## ScreenShot 程序运行时展示
 ![Alt Text](http://laochou.cloud/GitHub/PC_ScreenTime/images/%E6%80%BB%E8%A7%88%E5%9B%BE%E8%A1%A8.png)
